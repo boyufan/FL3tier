@@ -1,6 +1,6 @@
-# FL3Tier
+# SAFI
 
-Implementation of federated learning on real-world setting.
+Implementation of federated learning on real-world setting in Java.
 
 ## Overview
 We implement a real-world federated learning project based on Java. There are one server and many clients to 
